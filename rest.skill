@@ -1,0 +1,8 @@
+Hos Princh har jeg det seneste halve år arbejdet fokuseret med at 
+udvikle første udgave af en (næsten) RESTful server fra bunden, 
+der lader brugere scanne via TWAIN på en Windows-server til 
+Android devices. Projektet bliver i øjeblikket beta-testet hos de 
+første kunder og har indtil nu mødt enorm positiv respons. 
+Serveren er skrevet i C# og kan køres på alle nyere versioner af 
+Windows.
+
